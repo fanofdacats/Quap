@@ -1,4 +1,2 @@
 # Quap
-This is McCarties Website.
-
-Go on it, Assclown
+It My Bot And I'll Cry If I Want To
